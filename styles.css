@@ -1,0 +1,25 @@
+
+ul {
+  list-style-type: none;
+  margin: 3;
+  padding: 3;
+  overflow: hidden;
+  background-color: #ff0505;
+}
+
+li {
+  float: top;
+}
+
+li a {
+  display: block;
+  color: greenyellow;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+img {
+    border-radius: 5%;
+    width:200px
+}
