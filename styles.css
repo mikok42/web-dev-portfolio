@@ -11,7 +11,7 @@ li {
   float: left;
 }
 
-li a {
+.portfolio-text {
   display: block;
   color: greenyellow;
   text-align: center;
